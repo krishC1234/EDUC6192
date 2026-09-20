@@ -1,0 +1,6 @@
+{
+  "name": "Flashcard Study",
+  "description": "A simple, polished flashcard study app for students to create and review concepts and vocabulary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
